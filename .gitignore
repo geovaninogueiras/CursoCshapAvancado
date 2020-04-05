@@ -1,0 +1,6 @@
+*.iml
+.vs
+/Serializar_Deserealizar/00_Biblioteca/bin
+/Serializar_Deserealizar/00_Biblioteca/obj
+/Serializar_Deserealizar/01_SerializarXML/bin
+/Serializar_Deserealizar/01_SerializarXML/obj
