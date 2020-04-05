@@ -1,15 +1,15 @@
 .vs
-./Serializar_Deserealizar/00_Biblioteca/bin
-./Serializar_Deserealizar/00_Biblioteca/obj
+/Serializar_Deserealizar/00_Biblioteca/bin
+/Serializar_Deserealizar/00_Biblioteca/obj
 
-./Serializar_Deserealizar/01_SerializarXML/bin
-./Serializar_Deserealizar/01_SerializarXML/obj
+/Serializar_Deserealizar/01_SerializarXML/bin
+/Serializar_Deserealizar/01_SerializarXML/obj
 
-./Serializar_Deserealizar/02_SerealizarXML/bin
-./Serializar_Deserealizar/02_SerealizarXML/obj
+/Serializar_Deserealizar/02_SerealizarXML/bin
+/Serializar_Deserealizar/02_SerealizarXML/obj
 
-./Serializar_Deserealizar/03_SerializarJSON/bin
-./Serializar_Deserealizar/03_SerializarJSON/obj
+/Serializar_Deserealizar/03_SerializarJSON/bin
+/Serializar_Deserealizar/03_SerializarJSON/obj
 
-./Serializar_Deserealizar/04_DeserializarJSON/bin
-./Serializar_Deserealizar/04_DeserializarJSON/obj
+/Serializar_Deserealizar/04_DeserializarJSON/bin
+/Serializar_Deserealizar/04_DeserializarJSON/obj
