@@ -1,4 +1,5 @@
 *.iml
+<<<<<<< HEAD
 
 .vs
 
@@ -14,6 +15,16 @@
 
 /Serializar_Deserealizar/02_SerealizarXML/bin
 
+=======
+.vs
+/Serializar_Deserealizar/00_Biblioteca/bin
+/Serializar_Deserealizar/00_Biblioteca/obj
+
+/Serializar_Deserealizar/01_SerializarXML/bin
+/Serializar_Deserealizar/01_SerializarXML/obj
+
+/Serializar_Deserealizar/02_SerealizarXML/bin
+>>>>>>> 466f04afc73bb6f56ad17639b849a4f6633876c1
 /Serializar_Deserealizar/02_SerealizarXML/obj
 
 /Serializar_Deserealizar/03_SerializarJSON/bin
