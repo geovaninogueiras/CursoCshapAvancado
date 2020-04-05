@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{4C888E30-E80C-4AC6-98D8-4441451648E1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_02_SerealizarXML</RootNamespace>
-    <AssemblyName>02_SerealizarXML</AssemblyName>
+    <RootNamespace>_02_DeserealizarXML</RootNamespace>
+    <AssemblyName>02_DeserealizarXML</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

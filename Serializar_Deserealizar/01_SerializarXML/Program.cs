@@ -12,7 +12,7 @@ namespace _01_SerializarXML
 
             Usuario usuario = new Usuario() {
                 Nome = "Geovani",
-                CPF = "402.944.178-50",
+                CPF = "000.000.000-00",
                 Email = "geovaninogueira02@gmail.com",
             };
 
